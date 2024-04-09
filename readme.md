@@ -1,9 +1,11 @@
 
 <!-- TOC -->
-* [Installation](#installation)
-  * [Step 1:](#step-1)
-  * [ELCOME TO SOCIAL MEDIA BUDDY](#elcome-to-social-media-buddy)
-  * [WHAT IS SOCIAL MEDIA BUDDY / WHAT IS SMBT ?](#what-is-social-media-buddy--what-is-smbt-)
+  * [WELCOME TO SOCIAL MEDIA BUDDY](#welcome-to-social-media-buddy)
+    * [INTRODUCTION](#introduction)
+  * [WHAT IS SOCIAL MEDIA BUDDY?](#what-is-social-media-buddy)
+  * [WHAT IS SMBT ?](#what-is-smbt-)
+  * [WHAT IS SMBC ?](#what-is-smbc-)
+  * [TECHNICAL UNDERPINNINGS:](#technical-underpinnings)
   * [PROBLEM / SOLUTION](#problem--solution)
   * [OPPORTUNITY](#opportunity)
   * [SALES STRUCTURE](#sales-structure)
@@ -12,9 +14,6 @@
 Welcome to Social Media Buddy
 
 
-# Installation
-
-## Step 1:
 
 ## WELCOME TO SOCIAL MEDIA BUDDY
 ### INTRODUCTION
@@ -35,6 +34,28 @@ The initial SMB will be an Erc20 token for ICO purposes only (SMBT) this will en
 ## WHAT IS SMBC ?
 SMBC will be our own crypto coin that functions on its own blockchain and have full mining capabilities that are only compatible with our Social Media Buddy App. This will be the Coin that investors will receive after the vesting periods (the details of which will be in our Tokenomics section), once the ICO is complete. As with all other coins this will be tradable on exchanges and all transactions will be traceable on the social media buddy blockchain.
 <br>
+
+**SMBC BLOCKCHAIN: POWERING A
+DECENTRALIZED SOCIAL MINING FUTURE**
+
+The SMBC project ushers in a new era of social media engagement with a custom-designed blockchain built for security, scalability, and fostering a thriving social mining ecosystem.
+
+## TECHNICAL UNDERPINNINGS:
+The SMBC blockchain leverages a robust consensus mechanism like Proof- of-Stake (PoS) to secure. the network and validate transactions. This mechanism ensures efficient operation by minimizing energy consumption compared to Proof-of-Work (PoW) models used by some blockchains.
+Secure hashing algorithms like SHA-256 guarantee the immutability and integrity of data stored on the blockchain, ensuring a tamper-proof record of all SMBC transactions.
+
+SMBC BLOCKCHAIN: <br>
+A Deep Dive into Technical Architecture
+This section delves deeper into the technical specifics of the SMBC blockchain, providing a more intricate understanding of its design and functionality.
+
+CONSENSUS MECHANISM:
+Delegated Proof-of-Stake (DPoS)
+The SMBC blockchain utilizes a variant of Proof-of-Stake (PoS) called Delegated Proof-of-Stake (DPoS). In DPoS, token holders elect validators responsible for block creation and transaction validation. This approach offers significant energy savings compared to Proof-of-Work (PoW) while maintaining robust security.
+
+SECURITY ANALYSIS:
+* Byzantine Fault Tolerance (BFT): The DPoS protocol leverages a Byzantine Fault Tolerance (BFT) algorithm, such as PBFT (Practical Byzantine Fault Tolerance), which ensures network functionality even in the presence of malicious actors or network delays.
+* Stake Weighting: Token holders delegate their stake to validators. The probability of a validator being selected for block creation is proportional to their delegated stake. This incentivizes validators to act honestly, as slashing penalties (loss of stake) exist for malicious behavior.
+
 
 ## PROBLEM / SOLUTION
 ## OPPORTUNITY
