@@ -168,7 +168,7 @@ The app will be available for user to purchase for a small fee from the relevant
 
 ## TOKENOMICS
 <p align="center">
-<img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/social-media-text">
+<img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/social-media-text.png">
 </p>
 ## SALES STRUCTURE
 
