@@ -61,7 +61,6 @@ SECURITY ANALYSIS:
 * Byzantine Fault Tolerance (BFT): The DPoS protocol leverages a Byzantine Fault Tolerance (BFT) algorithm, such as PBFT (Practical Byzantine Fault Tolerance), which ensures network functionality even in the presence of malicious actors or network delays.
 * Stake Weighting: Token holders delegate their stake to validators. The probability of a validator being selected for block creation is proportional to their delegated stake. This incentivizes validators to act honestly, as slashing penalties (loss of stake) exist for malicious behavior.
 
-//list here
 1. PREPARE PHASE: <br>
    A validator proposes a new block to other validators and broadcasts a PRE- PREPARE message containing the block data.
 2. PRE-VOTE PHASE: <br>
@@ -157,7 +156,20 @@ Social Media Buddy believes we have a solution to help citizens from every conti
 What if an app/platform was available that made it simple to generate income just by using your everyday social media platforms, many of you reading this document will already have a good understanding of Crypto and its many coupled resources. Our App/Platform will simply connect to the most wide spread social media platforms like Instagram,Tiktok,Youtube,Facebook etc and begin to mine our Token generating wealth for Social Media Content Creators and Social media users alike and with the App/Platform being available for IOS and Android everyone will have a simple extremely cost effective way to prosper. Our app will not only mine our native token it will also be able to mine many other minable tokens and coins within the crypto market.
 
 </p>
+
 ## OPPORTUNITY
+<p>
+Since the public launch of Facebook in 2006 the world has seen a rapid expansion in social media platforms reaching billions of people around the world who have an endless thirst for engaging on each and every one of them. Over 60% of the world population now uses social media, approximately 5 billion people with well over 250 million new users coming on board last year, amazingly the average time spent using social media per day is over 2 hours per person. Now we know the approximate figures of the popularity its easy to understand how billions of dollars are made every year by platform owners and companies who choose to use these services to advertise. Millions of people create content as a means of providing an income and for many content creators this is their only means of making a salary. Social Media Buddy believes that a monumental opportunity to combine Crypto Currency, Blockchain and A.I in a ground breaking new App mining an array of available cryptos including our very own coin (SMBC) just by engaging on social media platforms which more than half the global population does daily anyway can be the stand out project of 2024.
+
+</p> <br>
+<p style="width: 70%;">
+The app will be available for user to purchase for a small fee from the relevant platforms their service providers provide for application downloads. The income from the sales of the app will take pressure off our native token allowing SMBT to increase in value steadily as Social Media Buddy will not need to release tokens to raise revenue for future development, the funds generated from the app sales will cover day to day running and any further company growth protecting SMBC price saving investors from footing the cost as coin release usually has a negative impact on coin price.
+</p>
+
+## TOKENOMICS
+<p align="center">
+<img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/social-media-text">
+</p>
 ## SALES STRUCTURE
 
 
