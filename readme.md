@@ -128,8 +128,31 @@ or sidechains to ensure the network can efficiently handle future growth.
 <p align="center" style="font-size: 20px; margin-top: 30px; color: red;">MULTI-COIN FUTURE
 </p>
 
+The SMBC blockchain isn't limited to just SMBC tokens. The future roadmap envisions expanding
+mining capabilities to include top cryptocurrencies like Bitcoin, Ethereum, Litecoin, and Dogecoin within
+12 months. This paves the way for a diverse and dynamic crypto mining experience directly integrated
+with social media engagement. Transparency at Your Fingertips
+All SMBC transactions and mined assets are permanently recorded on the SMBC blockchain, providing
+complete transparency and auditability. Users can leverage the Social Media Buddy App to monitor
+their mining activity, track their SMBC and potentially other mined crypto holdings, and manage their
+entire crypto portfolio conveniently and securely. Building a Secure and Sustainable Future
+The SMBC blockchain prioritizes both security and sustainability. The chosen consensus mechanism
+(e.g., PoS) offers a more energy-efficient alternative to PoWmodels, contributing to a more sustainable
+future for blockchain technology
+
 
 ## PROBLEM / SOLUTION
+<p align="center">
+<img style="display: block; width:70%; height: 200px" src="https://raw.githubusercontent.com/arif98741/smb/master/img/problem-image.png">
+</p>
+
+In a world where digital technology primarily Blockchain closely coupled with Crypto Currency which include Tokens and Coins many cryptos have a mining functionality Mining is the process by which networks of specialized computers generate and release new Crypto Currency and verify new transactions. Mining is the process that Bitcoin and several other cryptocurrencies use to generate new coins and verify new transactions. It involves vast, decentralized networks of computers around the world that verify and secure blockchains – the virtual ledgers that document cryptocurrency transactions. In return for contributing their processing power, computers on the network are rewarded with new coins. It’s a virtuous circle: the miners maintain and secure the blockchain, the blockchain awards the coins, the coins provide an incentive for the miners to maintain the blockchain, delivering the ability for people to increase wealth for themselves. Blockchain is becoming adopted at a rate no other tech has previously accomplished yet people from nations worldwide trail behind when it comes to accepting, understanding, and embracing new concepts.
+Even though major corporations have already started to implement it into everyday living. We understand that fear and our in-built human scepticism often play a major role in widespread understanding and acceptance. As with anything new, a lack of clear information, easy to understand material and user-friendly Apps or Platforms add to the slow uptake of global adoption.
+We do not always need to know the intricate workings or dynamics of technologies so long as we get easy to use products that deliver results that Favor ourselves and help us to prosper many people the world over would be involved in Crypto and its many connected technologies if they had easy to use Apps and Platforms. Mining crypto usually involves buying expensive hardware and software then having to take time to learn how to setup the equipment to start mining crypto currency to prosper.
+
+<br>
+Social Media Buddy believes we have a solution to help citizens from every continent to prosper from Crypto Currency mining and Blockchain using a simple app.
+
 ## OPPORTUNITY
 ## SALES STRUCTURE
 
