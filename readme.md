@@ -143,7 +143,7 @@ future for blockchain technology
 
 ## PROBLEM / SOLUTION
 <p align="center">
-<img style="display: block; width:70%; height: 200px" src="https://raw.githubusercontent.com/arif98741/smb/master/img/problem-image.png">
+<img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/problem-image.png">
 </p>
 
 In a world where digital technology primarily Blockchain closely coupled with Crypto Currency which include Tokens and Coins many cryptos have a mining functionality Mining is the process by which networks of specialized computers generate and release new Crypto Currency and verify new transactions. Mining is the process that Bitcoin and several other cryptocurrencies use to generate new coins and verify new transactions. It involves vast, decentralized networks of computers around the world that verify and secure blockchains – the virtual ledgers that document cryptocurrency transactions. In return for contributing their processing power, computers on the network are rewarded with new coins. It’s a virtuous circle: the miners maintain and secure the blockchain, the blockchain awards the coins, the coins provide an incentive for the miners to maintain the blockchain, delivering the ability for people to increase wealth for themselves. Blockchain is becoming adopted at a rate no other tech has previously accomplished yet people from nations worldwide trail behind when it comes to accepting, understanding, and embracing new concepts.
@@ -155,6 +155,5 @@ Social Media Buddy believes we have a solution to help citizens from every conti
 
 ## OPPORTUNITY
 ## SALES STRUCTURE
-
 
 
