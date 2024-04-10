@@ -170,6 +170,27 @@ The app will be available for user to purchase for a small fee from the relevant
 <p align="center">
 <img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/social-media-text.png">
 </p>
-## SALES STRUCTURE
+
+## SALES ROUNDS
+<p align="center">
+<img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/sales-round.png">
+</p>
+
+
+## ICO
+
+<p align="center">
+<img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/ico.png">
+</p>
+
+<p align="center">
+<img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/token-distribution.png">
+</p>
+
+## ACCEPTED PAYMENTS
+<p align="center">
+<img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/accepted-payments.png">
+</p>
+
 
 
