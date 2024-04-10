@@ -9,8 +9,14 @@
   * [WHAT IS SMBT ?](#what-is-smbt-)
   * [WHAT IS SMBC ?](#what-is-smbc-)
   * [TECHNICAL UNDERPINNINGS:](#technical-underpinnings)
-  * [PROBLEM](#p-stylealign-center-text-align-centerspan-stylecolor-redproblemspanp)
-  * [SOLUTION](#p-stylealign-center-text-align-centerspan-stylecolor-redsolutionspanp)
+  * [<p style="align: center; text-align: center;"><span style="color: red;">PROBLEM<span></p>](#p-stylealign-center-text-align-centerspan-stylecolor-redproblemspanp)
+  * [<p style="align: center; text-align: center;"><span style="color: red;">SOLUTION<span></p>](#p-stylealign-center-text-align-centerspan-stylecolor-redsolutionspanp)
+  * [OPPORTUNITY](#opportunity)
+  * [TOKENOMICS](#tokenomics)
+  * [SALES ROUNDS](#sales-rounds)
+  * [ICO](#ico)
+  * [ACCEPTED PAYMENTS](#accepted-payments)
+  * [OUR BUY BACK POLICY](#our-buy-back-policy)
 <!-- TOC -->
 
 Welcome to Social Media Buddy
