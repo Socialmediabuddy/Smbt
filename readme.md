@@ -56,6 +56,40 @@ SECURITY ANALYSIS:
 * Byzantine Fault Tolerance (BFT): The DPoS protocol leverages a Byzantine Fault Tolerance (BFT) algorithm, such as PBFT (Practical Byzantine Fault Tolerance), which ensures network functionality even in the presence of malicious actors or network delays.
 * Stake Weighting: Token holders delegate their stake to validators. The probability of a validator being selected for block creation is proportional to their delegated stake. This incentivizes validators to act honestly, as slashing penalties (loss of stake) exist for malicious behavior.
 
+//list here
+1. PREPARE PHASE: <br>
+   A validator proposes a new block to other validators and broadcasts a PRE- PREPARE message containing the block data.
+2. PRE-VOTE PHASE: <br>
+   Validators validate the block and broadcast a PRE-VOTE message if they agree with the proposal.
+3. COMMIT PHASE: <br>
+   If a validator receives 2f + 1 PRE-VOTE messages (where f is the maximum number of Byzantine faults the system can tolerate), it broadcasts a COMMIT message for the block.
+4. DECISION PHASE: <br>
+Upon receiving 2f + 1 COMMIT messages, a validator finalizes the block and broadcasts a DONE message.
+
+`Equation for Byzantine Fault Tolerance Threshold (f): f = (n - 1) / 3`
+
+where n is the total number of validators in the network. This equation helps determine the system's resilience to Byzantine faults based on the number of validators. <br>
+EQUATION FOR STAKE WEIGHTING: <br>
+Validator Selection Probability (Vi) = Stake Delegated to Vi (Si) / Total Delegated Stake (∑Sj)
+
+SCALABILITY SOLUTIONS: <br>
+
+The SMBC blockchain anticipates future growth and explores two potential scaling solutions:
+1. Sharding: The network can be partitioned into horizontal shards, each processing a subset of transactions. This distributes the workload, improving transaction throughput.
+   * State Sharding: This approach shards the entire blockchain state, requiring communication between shards for specific transactions. 
+   * Transaction Sharding: Only transactions are sharded, with the complete state maintained on all shards. This simplifies cross-shard communication but may require additional storage space.
+2. Sidechains: These are separate blockchains that interact with the main SMBC blockchain. They can offload specific functionalities, reducing congestion on the main chain. Security bridges ensure secure asset transfer between the main chain and sidechains.
+
+SOCIAL MEDIA MINING ALGORITHM
+The SMBC platform employs a custom algorithm to reward user engagement and incentivize positive social media behavior. The algorithm considers various metrics to determine mining rewards:
+* Content Quality Score (CQS): This metric evaluates the quality and originality of user-generated content using natural language processing (NLP) techniques and sentiment analysis.
+* User Engagement Score (UES): This score considers factors like likes, comments, and shares to gauge user interaction with content.
+* Time Spent on Platform (TSP): Rewarding users for active participation by factoring in the total time spent on the Social Media Buddy App.
+
+**Weighted Mining Reward Calculation:** <br>
+Mining Reward (MRi) = α * CQS (Ci) + β * UES (Ui) + γ * TSP (Ti) + ω * Category Weight (CWj) where ω is a weighting factor and CWj represents the weight assigned to a specific content category (e.g., educational content, creative content).
+
+
 
 ## PROBLEM / SOLUTION
 ## OPPORTUNITY
