@@ -1,3 +1,4 @@
+<img style="margin: 0 auto; width: 300px; height: 100%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/smb-logo.png">
 
 <!-- TOC -->
   * [WELCOME TO SOCIAL MEDIA BUDDY](#welcome-to-social-media-buddy)
