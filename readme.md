@@ -9,9 +9,8 @@
   * [WHAT IS SMBT ?](#what-is-smbt-)
   * [WHAT IS SMBC ?](#what-is-smbc-)
   * [TECHNICAL UNDERPINNINGS:](#technical-underpinnings)
-  * [PROBLEM / SOLUTION](#problem--solution)
-  * [OPPORTUNITY](#opportunity)
-  * [SALES STRUCTURE](#sales-structure)
+  * [PROBLEM](#p-stylealign-center-text-align-centerspan-stylecolor-redproblemspanp)
+  * [SOLUTION](#p-stylealign-center-text-align-centerspan-stylecolor-redsolutionspanp)
 <!-- TOC -->
 
 Welcome to Social Media Buddy
@@ -141,7 +140,7 @@ The SMBC blockchain prioritizes both security and sustainability. The chosen con
 future for blockchain technology
 
 
-## PROBLEM / SOLUTION
+## <p style="align: center; text-align: center;"><span style="color: red;">PROBLEM<span></p>
 <p align="center">
 <img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/problem-image.png">
 </p>
@@ -153,6 +152,11 @@ We do not always need to know the intricate workings or dynamics of technologies
 <br>
 Social Media Buddy believes we have a solution to help citizens from every continent to prosper from Crypto Currency mining and Blockchain using a simple app.
 
+## <p style="align: center; text-align: center;"><span style="color: red;">SOLUTION<span></p>
+<p style="width: 80%; text-align: left">
+What if an app/platform was available that made it simple to generate income just by using your everyday social media platforms, many of you reading this document will already have a good understanding of Crypto and its many coupled resources. Our App/Platform will simply connect to the most wide spread social media platforms like Instagram,Tiktok,Youtube,Facebook etc and begin to mine our Token generating wealth for Social Media Content Creators and Social media users alike and with the App/Platform being available for IOS and Android everyone will have a simple extremely cost effective way to prosper. Our app will not only mine our native token it will also be able to mine many other minable tokens and coins within the crypto market.
+
+</p>
 ## OPPORTUNITY
 ## SALES STRUCTURE
 
