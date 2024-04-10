@@ -192,5 +192,18 @@ The app will be available for user to purchase for a small fee from the relevant
 <img style="display: block; width:80%;" src="https://raw.githubusercontent.com/arif98741/smb/master/img/accepted-payments.png">
 </p>
 
+<br>
+<br>
+<br>
+<p align="center">TOKEN DETAILS SMBT
+Token Standard ERC20<br>
+Token Ticker SMBT<br>
+Blockchain Ethereum</p>
+
+## OUR BUY BACK POLICY
+To fuel the success of SMB we are reinvesting part of the blockchain fees as buybacks, wherein we buy and then burn the crypto assets, in return lowering the SMB total supply and growing the market cap overall. A percentage of the fees are used as an inventory, the inventory buyback happens whilst SMB buys back the coin at the current market price and absorbs them, reducing the total quantity of coins available on the open market. <br><br>
+The two successful tools are buybacks and burns. And at the same time as each of these techniques essentially accomplish the equal intention, this mechanism reflects a victory for the financial model for the investors of SMBC while also protecting from the market’s volatility and providing the catapult effect, continuously fuelling the buybacks to increase the coins' demand and valuation 
+
+
 
 
