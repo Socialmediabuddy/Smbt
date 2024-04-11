@@ -1,5 +1,5 @@
 <p align="center">
-<img style="margin: 0 auto; height: 100%; width:300px" src="https://raw.githubusercontent.com/arif98741/smb/master/img/smb-logo.png">
+<img style="margin: 0 auto; height: 100%; width:200px" src="https://raw.githubusercontent.com/arif98741/smb/master/img/smb-logo.png">
 </p>
 
 <!-- TOC -->
